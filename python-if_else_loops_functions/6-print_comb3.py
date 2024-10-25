@@ -1,3 +1,6 @@
 #!/usr/bin/python3
-for i in range(100):
-    print("{:02}".format(i), end=", " if i != 99 else None)
+for i in range(10):
+    for j in range(10):
+        if j > i:
+            print("{:d}{:d}".format(i, j),
+                  end=", " if [i, j] != [8, 9] else None)
