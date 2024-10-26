@@ -1,5 +1,3 @@
 #!/usr/bin/python3
-def square_matrix_simple(matrix=[]):
-    if not matrix:
-        print()
-    return [[element * element for element in row] for row in matrix]
+def search_replace(my_list, search, replace):
+    return [element if element != search else replace for element in my_list]
