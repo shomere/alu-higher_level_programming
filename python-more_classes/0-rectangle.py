@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-"""An empty class that defines a rectangle."""
+"""Define a rectangle"""
+
 
 class Rectangle:
-    """An empty class that defines a rectangle."""
+    """Creates a rectangle."""
     pass
-
