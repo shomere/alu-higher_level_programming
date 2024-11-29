@@ -1,0 +1,1 @@
+Welcome to the Pythonic side of things, our last project for intro to Python, it feels a bit emotional but yes in here we deal with Object Relational Mapping, this is where we bring python & sql together! 🚀
