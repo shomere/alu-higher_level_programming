@@ -8,4 +8,3 @@ if (args.length < 2) {
   args.sort((a, b) => b - a); // Sort in descending order
   console.log(args[1]); // Second largest number
 }
-
